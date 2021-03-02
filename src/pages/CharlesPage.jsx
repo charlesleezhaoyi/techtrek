@@ -4,7 +4,7 @@ import Navbar from '../features/Navbar'
 const CharlesPage = () => {
     return (
         <Navbar>
-            This is the Charles Lee's page
+            This is the Charles Lee' page
         </Navbar>
     )
 }

@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-techtrek-dev-144010-authRole",
+      "UnauthRoleArn": "arn:aws:iam::273813574669:role/amplify-techtrek-dev-144010-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::273813574669:role/amplify-techtrek-dev-144010-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-techtrek-dev-144010-deployment",
+      "UnauthRoleName": "amplify-techtrek-dev-144010-unauthRole",
+      "StackName": "amplify-techtrek-dev-144010",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:273813574669:stack/amplify-techtrek-dev-144010/f8dff670-7a58-11eb-b1a5-06471c3627e4",
+      "AmplifyAppId": "dp22006ysbkcl"
+    },
+    "categories": {
+      "auth": {
+        "techtrek8beadfb5": {}
+      }
+    }
+  }
+}
